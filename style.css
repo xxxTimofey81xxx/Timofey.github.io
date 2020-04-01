@@ -1,0 +1,210 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    background-color: #f5f7fa;
+}
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+  }
+.side-bar {
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.my-photo {
+    width: 370px;
+} 
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 78px;
+    padding-bottom: 110px;
+}
+.contact-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.contact-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.contact-link {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.contact-letter {
+    /* Style for "C:   E:" */
+    width: 14px;
+    height: 34px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.my-skills {
+    margin-left: 40px;
+    margin-right: 209px;
+    margin-top: 55px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+}
+.tech-skills-item {
+    color: #ff6b08;
+    margin-left: 55px;
+    
+}
+.tech-skill-menu {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+}
+.softskills-container {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 40px;
+    margin-top: 51px;
+    margin-bottom: 17px;
+}
+.soft-skill-item {
+    color: #ff6b08;
+    margin-left: 55px;
+ 
+}
+.soft-skill-menu {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+}
+.front-end {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    width: 160px;
+    height: 24px;
+}
+.name-surname {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+.text-1 {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    width: 413px;
+    height: 107px;
+    margin-top: 24px;
+    line-height: 24px;
+}
+.project-name {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000000;
+    margin-top: 54px;
+}
+.http-addres {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 12px;
+}
+.project-span {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.kavichka {
+    color: #000000;
+}
+.number-li {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+li {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.tochka {
+    font-size: 14px;
+    font-weight: 400;
+}
+.work-expirienc {
+color: #000000;
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+margin-top: 52px;
+}
+.front-end-developer {
+color: #000000;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+margin-top: 18px;
+}
+.freelance {
+    color: #ff6b08;
+}
+.time {
+color: #a8a8a8;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 14px;
+}
+.slash {
+    color: #000000;
+    font-weight: 400;
+}
+ul {
+    color: #595959;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 14px;
+}
+.address {
+color: #ff6b08;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+margin-top: 21px;
+}
+.managment {
+color: #000000;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+}
